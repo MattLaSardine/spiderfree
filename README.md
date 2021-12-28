@@ -1,4 +1,4 @@
-# spiderfree
+# Spider-Free
 Vous permet de regarder la saga Spider-Man sans moindre coût ni Publicité, Mis à Jour régulièrement.
 
 Le fichier est 100% safe, le lien virus total est juste en dessous :
